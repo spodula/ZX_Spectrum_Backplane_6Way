@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Speccy")(type "KiCad")(uri "/home/graham/Speccy.kicad_sym")(options "")(descr ""))
+  (lib (name "Spectrum")(type "KiCad")(uri "/home/graham/dev/git/Kicad_Spectrum_symbols/Spectrum.kicad_sym")(options "")(descr ""))
+)

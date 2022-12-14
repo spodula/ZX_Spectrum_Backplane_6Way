@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "SpeccyEdge")(type "KiCad")(uri "/home/graham/SpeccyEdge.pretty")(options "")(descr ""))
+  (lib (name "Spectrum")(type "KiCad")(uri "/home/graham/Spectrum.pretty")(options "")(descr ""))
+  (lib (name "Footprints")(type "KiCad")(uri "/home/graham/dev/git/ZXSpectrum-Backplane/Footprints.pretty")(options "")(descr ""))
+)
